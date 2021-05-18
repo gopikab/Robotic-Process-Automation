@@ -1,6 +1,6 @@
 # Robotic-Process-Automation
 
-I have attached xaml files on basics topics of Robotic Process Automation.
+I have attached xaml files of Robotic Process Automation.
 
 Topics Include:
 
